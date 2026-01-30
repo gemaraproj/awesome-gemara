@@ -25,8 +25,8 @@
 
 *Tools that implement or use Gemara for GRC automation.*
 
-- [Privateer](https://github.com/privateerproj/privateer) - Layer 5 evaluation framework with plugins like the OSPS Baseline Plugin
-- [OSPS Baseline Plugin](https://github.com/revanite-io/pvtr-github-repo) - Privateer plugin for Open Source Project Security Baseline
+- [Privateer](https://privateerproj.com) - Plugin harness for Layer 5 compatible evaluations
+- [OSPS Baseline GitHub Action](https://github.com/marketplace/actions/open-source-project-security-baseline-scanner) - Open Source Project Security Baseline Scanner for GitHub Repositories (built using Privateer)
 
 ## Libraries & SDKs
 
