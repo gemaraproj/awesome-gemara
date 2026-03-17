@@ -9,8 +9,6 @@
 - [Libraries & SDKs](#libraries--sdks)
 - [Documentation & Learning](#documentation--learning)
 - [Examples & Implementations](#examples--implementations)
-- [Community](#community)
-- [Related Projects](#related-projects)
 - [Contributing](#contributing)
 
 ## Project Resources
@@ -25,6 +23,7 @@
 
 *Tools that implement or use Gemara for GRC automation.*
 
+- [gemara-mcp](https://github.com/gemaraproj/gemara-mcp) - MCP server for creating, iterating on, and validating Gemara artifacts with AI-assisted workflows
 - [Privateer](https://privateerproj.com) - Plugin harness for Layer 5 compatible evaluations
 - [OSPS Baseline GitHub Action](https://github.com/marketplace/actions/open-source-project-security-baseline-scanner) - Open Source Project Security Baseline Scanner for GitHub Repositories (built using Privateer)
 
@@ -32,7 +31,7 @@
 
 *Language-specific libraries and SDKs for working with Gemara.*
 
-- [Go SDK](https://gemara.openssf.org/sdk/) - Go SDK for reading, writing, and manipulating Gemara documents
+- [go-gemara](https://github.com/gemaraproj/go-gemara) - Go SDK for parsing, reading, writing, and manipulating Gemara documents
 
 ## Documentation & Learning
 
