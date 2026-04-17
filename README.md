@@ -24,6 +24,7 @@
 *Tools that implement or use Gemara for GRC automation.*
 
 - [gemara-mcp](https://github.com/gemaraproj/gemara-mcp) - MCP server for creating, iterating on, and validating Gemara artifacts with AI-assisted workflows
+- [ComplyTime](https://github.com/complytime) - Engineering-first, API-driven framework designed to automate and unify compliance across the modern, cloud-native landscape; includes [complyctl](https://github.com/complytime/complyctl) and [complytime-policies](https://github.com/complytime/complytime-policies)
 - [Privateer](https://privateerproj.com) - Plugin harness for Layer 5 compatible evaluations
 - [OSPS Baseline GitHub Action](https://github.com/marketplace/actions/open-source-project-security-baseline-scanner) - Open Source Project Security Baseline Scanner for GitHub Repositories (built using Privateer)
 
