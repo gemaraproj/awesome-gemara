@@ -15,15 +15,20 @@
 
 *General resources from Gemara project under OpenSSF.*
 
-- [Gemara Website](https://gemara.openssf.org/) - Official Gemara documentation and resources
+- [Gemara Website](https://gemara.openssf.org/) - Official Gemara documentation and resources ([Source Code](https://github.com/gemaraproj/website))
 - [The Model](https://gemara.openssf.org/model/) - Foundational layer model describing the seven categorical layers of GRC activities (Guidance, Controls, Policy, Evaluation, Enforcement, and Audit)
 - [GitHub Repository](https://github.com/gemaraproj/gemara) - Official Gemara source code repository
+- [Community](https://github.com/gemaraproj/community) - Gemara community meetings, notes, and governance
 
 ## Tools
 
 *Tools that implement or use Gemara for GRC automation.*
 
 - [gemara-mcp](https://github.com/gemaraproj/gemara-mcp) - MCP server for creating, iterating on, and validating Gemara artifacts with AI-assisted workflows
+- [gemara-ai](https://github.com/gemaraproj/gemara-ai) - Gemara's AI skills, OpenPackage bundles, and MCP configurations
+- [grcli](https://github.com/gemaraproj/grcli) - Command-line interface for Gemara
+- [gemara-publish-action](https://github.com/gemaraproj/gemara-publish-action) - GitHub Action for publishing Gemara artifact bundles to OCI registries
+- [gemara-mcp-eval-infra](https://github.com/gemaraproj/gemara-mcp-eval-infra) - Output-determinism evaluation harness for gemara-mcp
 - [ComplyTime](https://github.com/complytime) - Engineering-first, API-driven framework designed to automate and unify compliance across the modern, cloud-native landscape; includes [complyctl](https://github.com/complytime/complyctl) and [complytime-policies](https://github.com/complytime/complytime-policies)
 - [Privateer](https://privateerproj.com) - Plugin harness for Layer 5 compatible evaluations
 - [OSPS Baseline GitHub Action](https://github.com/marketplace/actions/open-source-project-security-baseline-scanner) - Open Source Project Security Baseline Scanner for GitHub Repositories (built using Privateer)
@@ -33,6 +38,9 @@
 *Language-specific libraries and SDKs for working with Gemara.*
 
 - [go-gemara](https://github.com/gemaraproj/go-gemara) - Go SDK for parsing, reading, writing, and manipulating Gemara documents
+- [gemara-python](https://github.com/gemaraproj/gemara-python) - Python SDK for working with Gemara
+- [gemara-react](https://github.com/gemaraproj/gemara-react) - TypeScript/React components for Gemara interfaces
+- [grc-store-clientkit](https://github.com/gemaraproj/grc-store-clientkit) - Shared Go library for tools publishing assets to a gemara-compatible registry
 
 ## Documentation & Learning
 
